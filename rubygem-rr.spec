@@ -37,3 +37,11 @@ rm -rf %{buildroot}
 %{ruby_gemdir}/gems/%{oname}-%{version}
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
 
+
+
+%changelog
+* Fri Sep 17 2010 Per Øyvind Karlsen <peroyvind@mandriva.org> 1.0.0-1mdv2011.0
++ Revision: 579203
+- import rubygem-rr
+
+
