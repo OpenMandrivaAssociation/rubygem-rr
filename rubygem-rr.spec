@@ -3,7 +3,7 @@
 Summary:	RR (Double Ruby)
 Name:		rubygem-%{oname}
 Version:	1.0.0
-Release:	%mkrel 1
+Release:	2
 License:	GPLv2
 Group:		Development/Ruby
 URL:		http://rubygems.org/gems/%{oname}
